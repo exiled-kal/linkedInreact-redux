@@ -1,0 +1,15 @@
+.sidebar {
+  top: 80px;
+  position: sticky;
+  flex: 0.2;
+  border-radius: 10px;
+  height: fit-content;
+}
+
+
+.sidebar__avatar {
+margin
+}
+
+.sidebar__top {
+}
