@@ -1,0 +1,8 @@
+.widgets {
+  position: sticky;
+  top: 80px;
+  flex: 0.2;
+}
+
+.widgets__header {
+}
